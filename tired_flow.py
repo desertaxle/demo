@@ -5,6 +5,6 @@ from time import sleep
 def tired_flow():
     print("I'm so tired...")
     sleep(1)
-    for i in range(10):
+    for i in range(100):
         print("zzzzz...")
         sleep(6)
